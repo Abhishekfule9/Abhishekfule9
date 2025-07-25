@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS , HTML , JAVA SCRIPT**
 
-- 💬 Ask me about **python , c language**
+- 💬 Ask me about **Java , python ,**
 
 - 📫 How to reach me **abhishekfule9@gmail.com**
 
