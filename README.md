@@ -21,7 +21,6 @@
 <a href="https://fb.com/abhishekfule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishekfule" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek110.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek110.jpg" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" alt="Java" width="40" height="40"/> 
